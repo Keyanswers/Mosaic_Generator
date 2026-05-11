@@ -1,3 +1,11 @@
+---
+title: "Image Mosaic Generator in Python"
+author: "Juan Carlos Rubio Polania"
+date: "2025-05-07"
+output: html_document
+---
+  
+
 # Image Mosaic Generator in Python 🖼️🐍
 
 ## Overview
