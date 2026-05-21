@@ -163,4 +163,4 @@ This project is licensed under the MIT License.
 
 # Author
 
-Juan Carlos Rubio Polania
+Juan Carlos Rubio Polania, PhD
