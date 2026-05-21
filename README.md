@@ -1,6 +1,6 @@
 ---
 title: "Image Mosaic Generator in Python"
-author: "Juan Carlos Rubio Polania"
+author: "Juan Carlos Rubio Polania, PhD"
 date: "2025-05-07"
 ---
   
